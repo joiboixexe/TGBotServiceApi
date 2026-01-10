@@ -6,7 +6,7 @@ from module import TelegramMiniApp
 
 bot_token = BOT_TOKEN
 
-async def handle():
+def handle():
     """
     Async auth handler for /api/auth
     """
